@@ -12,42 +12,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-13T11:31:15.945+01:00
-  initializedAtString: 2019-02-13T11:21:02.915+01:00
-  entries:
-  - path: .DS_Store
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/.DS_Store"
-    projectPath: ../.DS_Store
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Projet_Unity/Library/gfu/cache/branches.yaml
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/Projet_Unity/Library/gfu/cache/branches.yaml"
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity/Library/gfu/cache/gitlocks.yaml
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/Projet_Unity/Library/gfu/cache/gitlocks.yaml"
-    projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity/Library/gfu/cache/gitlog.yaml
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/Projet_Unity/Library/gfu/cache/gitlog.yaml"
-    projectPath: Library/gfu/cache/gitlog.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity/Library/gfu/cache/gitstatusentries.yaml
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/Projet_Unity/Library/gfu/cache/gitstatusentries.yaml"
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity/Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: "/Users/kyosuugakku/Desktop/Jiacheng/study/\u7B2C\u4E09\u5B66\u671F/CONAV/Unity/Projet_unity/Projet_Unity/Library/gfu/cache/gittrackingstatus.yaml"
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
+  lastUpdatedAtString: 2019-02-13T13:58:46.471+01:00
+  initializedAtString: 2019-02-13T13:12:08.529+01:00
+  entries: []
