@@ -12,13 +12,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-13T11:28:09.967+01:00
-  initializedAtString: 2019-02-13T11:21:36.138+01:00
+  lastUpdatedAtString: 2019-02-13T13:31:29.851+01:00
+  initializedAtString: 2019-02-13T13:31:29.839+01:00
   localBranches:
+  - name: branchScene
+    tracking: origin/branchScene
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/branchDouaa
+    tracking: '[None]'
+  - name: origin/branchMartin
+    tracking: '[None]'
+  - name: origin/branchScene
+    tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -30,8 +40,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - branchScene
     - master
     values:
+    - name: branchScene
+      remote:
+        name: origin
+        url: https://github.com/Jiachengciel/Projet_unity.git
+      trackingBranch: branchScene
     - name: master
       remote:
         name: origin
@@ -42,10 +58,34 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - branchDouaa
+      - branchMartin
+      - branchScene
       - HEAD
+      - master
     subKeyValues:
     - Values:
+      - name: branchDouaa
+        remote:
+          name: origin
+          url: https://github.com/Jiachengciel/Projet_unity.git
+        trackingBranch: 
+      - name: branchMartin
+        remote:
+          name: origin
+          url: https://github.com/Jiachengciel/Projet_unity.git
+        trackingBranch: 
+      - name: branchScene
+        remote:
+          name: origin
+          url: https://github.com/Jiachengciel/Projet_unity.git
+        trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Jiachengciel/Projet_unity.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/Jiachengciel/Projet_unity.git

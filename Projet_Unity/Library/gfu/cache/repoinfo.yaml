@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-13T11:21:02.521+01:00
-  initializedAtString: 2019-02-13T11:21:02.521+01:00
+  lastUpdatedAtString: 2019-02-15T10:52:14.551+01:00
+  initializedAtString: 2019-02-15T10:52:14.551+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/Jiachengciel/Projet_unity.git
@@ -23,14 +23,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: branchScene
+    tracking: origin/branchScene
   currentConfigBranch:
-    name: master
+    name: branchScene
     remote:
       name: origin
       url: https://github.com/Jiachengciel/Projet_unity.git
-    trackingBranch: master
+    trackingBranch: branchScene
   currentConfigRemote:
     name: origin
     url: https://github.com/Jiachengciel/Projet_unity.git
