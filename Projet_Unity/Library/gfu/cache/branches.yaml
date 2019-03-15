@@ -12,21 +12,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-13T13:31:29.851+01:00
-  initializedAtString: 2019-02-13T13:31:29.839+01:00
+  lastUpdatedAtString: 2019-03-16T00:05:33.188+01:00
+  initializedAtString: 2019-03-16T00:05:33.178+01:00
   localBranches:
-  - name: branchScene
-    tracking: origin/branchScene
+  - name: Scene
+    tracking: 
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/branchDouaa
+  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/branchMartin
     tracking: '[None]'
-  - name: origin/branchScene
-    tracking: '[None]'
-  - name: origin/HEAD
+  - name: origin/enigma-branch
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
@@ -40,14 +38,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - branchScene
+    - Scene
     - master
     values:
-    - name: branchScene
+    - name: Scene
       remote:
-        name: origin
-        url: https://github.com/Jiachengciel/Projet_unity.git
-      trackingBranch: branchScene
+        name: 
+        url: 
+      trackingBranch: 
     - name: master
       remote:
         name: origin
@@ -58,14 +56,13 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - branchDouaa
-      - branchMartin
-      - branchScene
       - HEAD
+      - branchMartin
+      - enigma-branch
       - master
     subKeyValues:
     - Values:
-      - name: branchDouaa
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/Jiachengciel/Projet_unity.git
@@ -75,12 +72,7 @@ MonoBehaviour:
           name: origin
           url: https://github.com/Jiachengciel/Projet_unity.git
         trackingBranch: 
-      - name: branchScene
-        remote:
-          name: origin
-          url: https://github.com/Jiachengciel/Projet_unity.git
-        trackingBranch: 
-      - name: HEAD
+      - name: enigma-branch
         remote:
           name: origin
           url: https://github.com/Jiachengciel/Projet_unity.git

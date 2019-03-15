@@ -12,48 +12,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-15T10:52:14.912+01:00
-  initializedAtString: 2019-02-15T10:52:14.561+01:00
-  entries:
-  - path: Projet_Unity\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Projet_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Projet_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Projet_Unity\Projet_Unity.sln
-    fullPath: C:\Users\eleve\Desktop\Connav P3RV\Projet_unity\Projet_Unity\Projet_Unity.sln
-    projectPath: Projet_Unity.sln
-    originalPath: 
-    status: 3
-    staged: 0
+  lastUpdatedAtString: 2019-03-16T00:21:32.765+01:00
+  initializedAtString: 2019-03-15T23:25:19.529+01:00
+  entries: []
