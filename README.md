@@ -13,4 +13,12 @@
 
 ### Objets
     Une personne RV (Camera RV)
+    Une tablette avec une formule
+    Les agents chimiques
+    La clé
     
+### Scripts
+    Interaction chimique
+    L'apparition du coffre au trésor
+    L'ouverture du coffre au trésor
+    L'ouverture de la porte
