@@ -1,3 +1,16 @@
 # Projet_unity
-ALLER!!! Pour le projet de unity (CONAV)
-P3RV
+==============================
+## Objectif
+
+    Nous allons construire un laboratoire de terreur chimique. 
+    En laboratoire, les joueurs peuvent interagir avec des fournitures de laboratoire. 
+    Les joueurs doivent mélanger les produits chimiques conformément à la formule appropriée. 
+    -> Si la synthèse est correcte, le coffre au trésor du laboratoire apparaît et le joueur peut retirer la clé de jeu et quitter le laboratoire. 
+    -> Si la synthèse échoue, les produits chimiques réagissent les uns avec les autres.
+
+***
+## A Faire
+=================
+### Objets
+    Une personne RV (Camera RV)
+    
